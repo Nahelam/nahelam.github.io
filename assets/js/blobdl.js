@@ -4,8 +4,10 @@ function fileOnClick(event)
 
     event.preventDefault();
     fetch(a.href).then(response => {
-        if (response.status === 200) {
+        if (response.status === 200)
+        {
             response.blob().then(blob => {
+                blob.type = "application/octet-stream";
                 a.download = a.href.split("/").pop();
                 a.href = URL.createObjectURL(blob);
                 a.click();
