@@ -7,7 +7,6 @@ function fileOnClick(event)
         if (response.status === 200)
         {
             response.blob().then(blob => {
-                blob.type = "application/octet-stream";
                 a.download = a.href.split("/").pop();
                 a.href = URL.createObjectURL(blob);
                 a.click();
