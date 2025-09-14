@@ -1,5 +1,3 @@
-const GIT_URL = "https://github.com/Nahelam/";
-
 function fileOnClick(event)
 {
     const a = event.target;
