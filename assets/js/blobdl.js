@@ -10,7 +10,7 @@ function fileOnClick(event)
             response.blob().then(blob => {
                 a.download = a.href.split("/").pop();
                 a.href = URL.createObjectURL(blob);
-            }
+            });
         }
     });
 }
