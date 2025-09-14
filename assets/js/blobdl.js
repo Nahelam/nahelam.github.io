@@ -4,6 +4,7 @@ function fileOnClick(event)
 {
     const a = event.target;
 
+    event.preventDefault();
     fetch(GIT_URL + a.href).then(response => {
         if (response.status === 200) {
             response.blob().then(blob => {
@@ -11,7 +12,7 @@ function fileOnClick(event)
                 a.href = URL.createObjectURL(blob);
             }
         }
-    }
+    });
 }
 
 function start()
