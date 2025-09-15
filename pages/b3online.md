@@ -11,8 +11,8 @@ permalink: /b3online/
 <table class="blobdl">
   <tr>
     <th>Serial</th>
-    <th >PCSX2</th>
-    <th >PS2</th>
+    <th>PCSX2</th>
+    <th>PS2</th>
   </tr>
   <tr>
     <td>SLES-52584</td>

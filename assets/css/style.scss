@@ -8,12 +8,15 @@ header summary {
   width: fit-content;   
 }
 
-header a:is(:hover, :focus),
-footer a:is(:hover, :focus) {
+a:is(:hover, :focus) {
   text-decoration: underline;
   font-weight: revert;
 }
 
-.blobdl tr > td:not(:first-child) {
+.blobdl a {
+  text-decoration: none;
+}
+
+.blobdl tr > :not(:first-child) {
   text-align: center;
 }
