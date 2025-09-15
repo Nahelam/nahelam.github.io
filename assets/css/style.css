@@ -1,0 +1,8 @@
+a:hover, a:focus {
+  all: revert;
+}
+
+.toc {
+  cursor: pointer;
+  width: fit-content;   
+}

@@ -13,22 +13,22 @@
   <body>
     <div class="wrapper">
       <header>
-        <a href="{{ "/" | absolute_url }}"><img style="max-width:45%;" src="{{ site.logo | relative_url }}" alt="Logo" /></a>
+        <a href="{{ "/" | absolute_url }}"><img style="max-width:8rem;" src="{{ site.logo | relative_url }}" alt="Logo" /></a>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>CONTENTS</p>
 
         <details>
-          <summary style="cursor:pointer;width:fit-content;">Burnout 3: Takedown</summary>
+          <summary class="toc">Burnout 3: Takedown</summary>
           <details>
-            <summary style="cursor:pointer;margin-left:1rem;width:fit-content;">Retail</summary>
+            <summary class="toc" style="margin-left:1rem;">Retail</summary>
             <a style="margin-left:2rem;" href="/b3">Patches</a>
           </details>
         </details>
 
         <details>
-          <summary style="cursor:pointer;width:fit-content;">Burnout Revenge</summary>
+          <summary class="toc">Burnout Revenge</summary>
           <details>
-            <summary style="cursor:pointer;margin-left:1rem;width:fit-content;">Retail</summary>
+            <summary class="toc" style="margin-left:1rem;">Retail</summary>
             <a style="margin-left:2rem;" href="/b4">Patches</a>
           </details>
         </details>
@@ -43,6 +43,6 @@
         <small><a href="{{ site.github.owner_url }}">GitHub</a> | <a href="https://ko-fi.com/nehalem_">Donate</a></small>
       </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="/assets/js/scale.fix.js"></script>
   </body>
 </html>
