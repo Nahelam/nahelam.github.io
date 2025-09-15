@@ -1,5 +1,3 @@
-@import "{{ site.theme }}";
-
 a:hover, a:focus {
   all: revert;
 }
@@ -8,3 +6,5 @@ a:hover, a:focus {
   cursor: pointer;
   width: fit-content;   
 }
+
+@import "{{ site.theme }}";
