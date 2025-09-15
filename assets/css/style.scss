@@ -13,7 +13,7 @@ a:is(:hover, :focus) {
   font-weight: revert;
 }
 
-.blobdl a {
+.blobdl a:is(:hover, :focus) {
   text-decoration: none;
 }
 
