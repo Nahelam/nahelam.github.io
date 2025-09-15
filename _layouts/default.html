@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -22,23 +21,26 @@
 
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        
-        <p style="line-height:1px;" class="view"><a href="/b3">Burnout 3: Takedown</a></p>
-        <p style="line-height:1px;" class="view"><a href="/b4">Burnout Revenge</a></p>
+
         <p style="line-height:1px;" class="view">
           <details>
-            <summary>Test</summary>
-            <a href="/b4">TEST</a>
+            <summary>Burnout 3: Takedown</summary>
+            <details>
+              <summary>Retail</summary>
+              <a href="/b3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Patches</a>
+            </details>
           </details>
         </p>
 
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
+        <p style="line-height:1px;" class="view">
+          <details>
+            <summary>Burnout Revenge</summary>
+            <details>
+              <summary>Retail</summary>
+              <a href="/b4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Patches</a>
+            </details>
+          </details>
+        </p>
 
       </header>
       <section>
