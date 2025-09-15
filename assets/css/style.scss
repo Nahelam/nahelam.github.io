@@ -3,13 +3,15 @@
 
 @import "{{ site.theme }}";
 
-a:hover, a:focus {
-  all: revert;
-}
-
-.toc {
+summary.toc {
   cursor: pointer;
   width: fit-content;   
+}
+
+a.toc {
+  font-weight: revert;
+  color: revert;
+  text-decoration: underline; 
 }
 
 .tac {
