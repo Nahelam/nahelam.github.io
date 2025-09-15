@@ -3,17 +3,17 @@
 
 @import "{{ site.theme }}";
 
-summary.toc {
+header summary {
   cursor: pointer;
   width: fit-content;   
 }
 
-a.toc {
+header a:is(:hover, :focus),
+footer a:is(:hover, :focus) {
+  text-decoration: underline;
   font-weight: revert;
-  color: revert;
-  text-decoration: underline; 
 }
 
-.tac {
+.blobdl tr > td:not(:first-child) {
   text-align: center;
 }

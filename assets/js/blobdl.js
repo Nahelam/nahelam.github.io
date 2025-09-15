@@ -1,7 +1,6 @@
 function fileOnClick(event)
 {
     const a = event.target;
-
     event.preventDefault();
     fetch(a.href).then(response => {
         if (response.status === 200)
@@ -21,12 +20,9 @@ function start()
         capture: true,
         once: true
     };
-
-    const files = document.getElementsByClassName("blobdl");
-    for (const file of files)
-    {
-        file.addEventListener("click", fileOnClick, clickOptions);
-    }
+    document.querySelectorAll(".blobdl a").forEach(a => {
+        a.addEventListener("click", fileOnClick, clickOptions);
+    });
 }
 
 start();
