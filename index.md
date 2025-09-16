@@ -10,4 +10,4 @@ Here I'll try to make my work (mainly game modifications) easy to browse, read a
 
 Feel free to start exploring using the left panel.
 
-*Currently a work in progress.*
+*- Currently WIP -*
