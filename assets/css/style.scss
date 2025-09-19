@@ -28,3 +28,7 @@ a:is(:hover, :focus) {
 .rcmd {
   color: orange;
 }
+
+ul {
+  margin: revert;
+}

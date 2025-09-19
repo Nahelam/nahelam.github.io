@@ -10,6 +10,7 @@ Thanks to /dev/ghostline's [server emulator](https://gitlab.com/gh0stl1ne/eaps) 
 
 The server emulator is currently reachable through the following URL: `bosrv.org`.
 
+
 ## Table of Contents
 - [Evolution of Patching Methods](#evolution-of-patching-methods)
   * [The Classic Way](#the-classic-way)
@@ -21,6 +22,7 @@ The server emulator is currently reachable through the following URL: `bosrv.org
 - [Downloads](#downloads)
   * [Burnout 3: Takedown](#burnout-3-takedown-1)
   * [Burnout Revenge](#burnout-revenge-1)
+
 
 ## Evolution of Patching Methods
 
@@ -53,6 +55,7 @@ This approach consists of mapping `DRTYSCKF.IRX` from the disc into an EE memory
 While working on some network patches for Revenge, I got curious about a [ProtoSSL bug](https://github.com/Aim4kill/Bug_OldProtoSSL/blob/main/README.md) which has been briefly discussed in the Burnout Online Discord server, opinions were mixed regarding its existence in PS2 Burnout games but it didn't went a lot further.
 
 I decided to give it a shot and noticed that the bug was indeed present in `DRTYSCKF.IRX` for both Takedown and Revenge. After some tweaking, I managed to make the server emulator certificate reach and trigger the bug. I made a [merge request](https://gitlab.com/gh0stl1ne/eaps/-/merge_requests/1) which has been accepted and now we can access the server emulator without patching anything IOP-wise!
+
 
 ## Patches Contents
 
@@ -104,6 +107,7 @@ I decided to give it a shot and noticed that the bug was indeed present in `DRTY
 
 ### Burnout Revenge
 Coming soon.
+
 
 ## Downloads
 
