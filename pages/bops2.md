@@ -105,7 +105,7 @@ I decided to give it a shot and noticed that the bug was indeed present in `DRTY
   </tr>
 </table>
 
-
+<br />
 ### Burnout Revenge
 Coming soon.
 
@@ -121,28 +121,28 @@ Coming soon.
   </tr>
   <tr>
     <td>SLES-52584</td>
-    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Network%20Play/SLES-52584_75BECC18_network_play.pnach">⬇️</a></td>
-    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Network%20Play/SLES-52584_75BECC18_network_play.pnach">⬇️</a></td>
+    <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%203%20Takedown/Online/PCSX2/SLES-52584_75BECC18_online.pnach">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Online/PS2/SLES-52584_online.cht">⬇️</a></td>
   </tr>
   <tr>
     <td>SLES-52585</td>
-    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Network%20Play/SLES-52585_CE49B0DE_network_play.pnach">⬇️</a></td>
-    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Network%20Play/SLES-52585_CE49B0DE_network_play.pnach">⬇️</a></td>
+    <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%203%20Takedown/Online/PCSX2/SLES-52585_CE49B0DE_online.pnach">⬇️</a></td>
+    <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%203%20Takedown/Online/PS2/SLES-52585_online.cht">⬇️</a></td>
   </tr>
   <tr>
     <td>SLKA-25206</td>
-    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Network%20Play/SLKA-25206_5F060991_network_play.pnach">⬇️</a></td>
-    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Network%20Play/SLKA-25206_5F060991_network_play.pnach">⬇️</a></td>
+    <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%203%20Takedown/Online/PCSX2/SLKA-25206_5F060991_online.pnach">⬇️</a></td>
+    <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%203%20Takedown/Online/PS2/SLKA-25206_online.cht">⬇️</a></td>
   </tr>
   <tr>
     <td>SLPM-65719</td>
-    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Network%20Play/SLPM-65719_BB2E845F_network_play.pnach">⬇️</a></td>
-    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Network%20Play/SLPM-65719_BB2E845F_network_play.pnach">⬇️</a></td>
+    <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%203%20Takedown/Online/PCSX2/SLPM-65719_BB2E845F_online.pnach">⬇️</a></td>
+    <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%203%20Takedown/Online/PS2/SLPM-65719_online.cht">⬇️</a></td>
   </tr>
   <tr>
     <td>SLUS-21050</td>
-    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Network%20Play/SLUS-21050_BEBF8793_network_play.pnach">⬇️</a></td>
-    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Network%20Play/SLUS-21050_BEBF8793_network_play.pnach">⬇️</a></td>
+    <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%203%20Takedown/Online/PCSX2/SLUS-21050_BEBF8793_online.pnach">⬇️</a></td>
+    <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%203%20Takedown/Online/PS2/SLUS-21050_online.cht">⬇️</a></td>
   </tr>
 </table>
 
