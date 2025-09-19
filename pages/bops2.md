@@ -1,10 +1,10 @@
 ---
-title: Burnout Online (PS2)
+title: Burnout Online - PlayStation 2
 layout: default
 permalink: /bops2/
 ---
 
-# Burnout Online (PS2)
+# Burnout Online - PlayStation 2
 
 Thanks to /dev/ghostline's [server emulator](https://gitlab.com/gh0stl1ne/eaps) it is now possible to use online functionalities of the game again.
 
