@@ -20,3 +20,11 @@ a:is(:hover, :focus) {
 .blobdl tr > :not(:first-child) {
   text-align: center;
 }
+
+tr.mdtr {
+  color: red;
+}
+
+tr.rcmd {
+  color: orange;
+}
