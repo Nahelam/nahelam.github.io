@@ -101,8 +101,8 @@ I decided to give it a shot and noticed that the bug was indeed present in `DRTY
 Coming soon.
 
 <small>
-  <p style="color:red;">RED = Mandatory</p>
-  <p style="color:orange;">ORANGE = Recommended</p>
+  <span class="mdtr">RED = Mandatory</span>
+  <span class="rcmd">ORANGE = Recommended</span>
 </small>
 
 ## Downloads
