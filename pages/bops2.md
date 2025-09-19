@@ -10,6 +10,12 @@ Thanks to /dev/ghostline's [server emulator](https://gitlab.com/gh0stl1ne/eaps) 
 
 The server emulator is currently reachable through the following URL: `bosrv.org`.
 
+## Table of Contents
+- [Evolution of Patching Methods](#evolution-of-patching-methods)
+- [Downloads](#downloads)
+  * [Burnout 3: Takedown](#burnout-3-takedown)
+  * [Burnout Revenge](#burnout-revenge)
+
 ## Evolution of Patching Methods
 
 Three steps are mandatory to properly connect to the server emulator:
