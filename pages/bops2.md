@@ -105,7 +105,6 @@ I decided to give it a shot and noticed that the bug was indeed present in `DRTY
   </tr>
 </table>
 
-<br />
 ### Burnout Revenge
 Coming soon.
 
@@ -146,7 +145,6 @@ Coming soon.
   </tr>
 </table>
 
-<br />
 ### Burnout Revenge
 <table class="blobdl">
   <tr>
