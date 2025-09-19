@@ -56,6 +56,11 @@ I decided to give it a shot and noticed that the bug was indeed present in `DRTY
 
 ## Patches Contents
 
+<small>
+  <span class="mdtr">RED = Mandatory</span><br />
+  <span class="rcmd">ORANGE = Recommended</span>
+</small>
+
 ### Burnout 3: Takedown
 
 <table>
@@ -99,11 +104,6 @@ I decided to give it a shot and noticed that the bug was indeed present in `DRTY
 
 ### Burnout Revenge
 Coming soon.
-
-<small>
-  <span class="mdtr">RED = Mandatory</span>
-  <span class="rcmd">ORANGE = Recommended</span>
-</small>
 
 ## Downloads
 
