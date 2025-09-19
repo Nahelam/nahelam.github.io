@@ -44,7 +44,7 @@ On the emulation side, PNACH patches targeting both EE and IOP were also availab
 
 ### On-ThEE-Fly
 
-I didn't want to look further into the PNACH IOP issue and wanted to investigate onto something guaranteed to work on both sides, and I ended up finding an alternative method to patch and load `DRTYSCKF.IRX` while only using the EE.
+I didn't want to look further into the PNACH IOP issue and wanted to investigate onto something guaranteed to work on both sides, and I ended up finding an [alternative method (now outdated)](https://github.com/Nahelam/PS2-Game-Mods/tree/b98cc1b78b396578b043a4cb615f8bd694972e46/Burnout%203%20Takedown/Network%20Play) to patch and load `DRTYSCKF.IRX` while only using the EE.
 
 Knowing that the action of telling the IOP to load an IRX file is initiated from the EE by calling a function named `sceSifLoadModule`, I looked around "sceSif" functions and noticed a very interesting one called `sceSifLoadModuleBuffer`. As its name describes, it can load an IRX file from a buffer residing in the EE memory, exactly what I needed.
 
@@ -120,28 +120,28 @@ Coming soon.
   </tr>
   <tr>
     <td>SLES-52584</td>
-    <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%203%20Takedown/Online/PCSX2/SLES-52584_75BECC18_online.pnach">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Online/PCSX2/SLES-52584_75BECC18_online.pnach">⬇️</a></td>
     <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Online/PS2/SLES-52584_online.cht">⬇️</a></td>
   </tr>
   <tr>
     <td>SLES-52585</td>
-    <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%203%20Takedown/Online/PCSX2/SLES-52585_CE49B0DE_online.pnach">⬇️</a></td>
-    <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%203%20Takedown/Online/PS2/SLES-52585_online.cht">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Online/PCSX2/SLES-52585_CE49B0DE_online.pnach">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Online/PS2/SLES-52585_online.cht">⬇️</a></td>
   </tr>
   <tr>
     <td>SLKA-25206</td>
-    <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%203%20Takedown/Online/PCSX2/SLKA-25206_5F060991_online.pnach">⬇️</a></td>
-    <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%203%20Takedown/Online/PS2/SLKA-25206_online.cht">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Online/PCSX2/SLKA-25206_5F060991_online.pnach">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Online/PS2/SLKA-25206_online.cht">⬇️</a></td>
   </tr>
   <tr>
     <td>SLPM-65719</td>
-    <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%203%20Takedown/Online/PCSX2/SLPM-65719_BB2E845F_online.pnach">⬇️</a></td>
-    <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%203%20Takedown/Online/PS2/SLPM-65719_online.cht">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Online/PCSX2/SLPM-65719_BB2E845F_online.pnach">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Online/PS2/SLPM-65719_online.cht">⬇️</a></td>
   </tr>
   <tr>
     <td>SLUS-21050</td>
-    <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%203%20Takedown/Online/PCSX2/SLUS-21050_BEBF8793_online.pnach">⬇️</a></td>
-    <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%203%20Takedown/Online/PS2/SLUS-21050_online.cht">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Online/PCSX2/SLUS-21050_BEBF8793_online.pnach">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Online/PS2/SLUS-21050_online.cht">⬇️</a></td>
   </tr>
 </table>
 
