@@ -38,7 +38,7 @@ This approach consists of mapping `DRTYSCKF.IRX` from the disc into an EE memory
 
 ### One Step Closer
 
-After working on some network patches for Revenge, I got curious about a [ProtoSSL bug](https://github.com/Aim4kill/Bug_OldProtoSSL/blob/main/README.md) which has been briefly discussed in the Burnout Online Discord server, opinions were mixed regarding its existence in PS2 Burnout games but it didn't went a lot further.
+While working on some network patches for Revenge, I got curious about a [ProtoSSL bug](https://github.com/Aim4kill/Bug_OldProtoSSL/blob/main/README.md) which has been briefly discussed in the Burnout Online Discord server, opinions were mixed regarding its existence in PS2 Burnout games but it didn't went a lot further.
 
 I decided to give it a shot and noticed that the bug was indeed present in `DRTYSCKF.IRX` for both Takedown and Revenge. After some tweaking, I managed to make the server emulator certificate reach and trigger the bug. I made a [merge request](https://gitlab.com/gh0stl1ne/eaps/-/merge_requests/1) which has been accepted and now we can access the server emulator without patching anything IOP-wise!
 
