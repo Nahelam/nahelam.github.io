@@ -23,7 +23,7 @@ The server emulator is currently reachable through the following URL: `bosrv.org
       <li><a href="#vanilla-iop">Vanilla IOP</a></li>
     </ul>
   </li>
-  <li><a href="#patches-contents">Patches Contents</a>
+  <li><a href="#patches">Patches</a>
     <ul>
       <li><a href="#burnout-3-takedown">Burnout 3: Takedown</a></li>
       <li><a href="#burnout-revenge">Burnout Revenge</a></li>
@@ -71,7 +71,7 @@ While working on some network patches for Revenge, I got curious about a [ProtoS
 I decided to give it a shot and noticed that the bug was indeed present in `DRTYSCKF.IRX` for both Takedown and Revenge. After some tweaking, I managed to make the server emulator certificate reach and trigger the bug. I made a [merge request](https://gitlab.com/gh0stl1ne/eaps/-/merge_requests/1){:target="_blank"} which has been accepted. We can now access the server emulator without altering the IOP.
 
 
-## Patches Contents
+## Patches
 
 ### Burnout 3: Takedown
 
