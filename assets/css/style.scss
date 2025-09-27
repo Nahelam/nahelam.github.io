@@ -29,9 +29,31 @@ a:is(:hover, :focus) {
   color: orange;
 }
 
+.lgnd {
+  display: flex;
+  justify-content: end;
+}
+
+.lgnd div {
+  position: relative;
+  top: -2rem;
+}
+
+.lgnd small {
+  color: black;
+}
+
 ul {
   margin: revert;
 }
+
+.toc ul {
+  padding-left: 1rem;
+};
+
+.toc li {
+  list-style-type: none;
+};
 
 h2 {
   margin-top: 3rem;

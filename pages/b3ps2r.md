@@ -6,4 +6,3 @@ permalink: /b3ps2r/
 
 # Burnout 3: Takedown
 ## WIP
-[test](https://nahelam.github.io/){:target="_blank"}
