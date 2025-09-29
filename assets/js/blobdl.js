@@ -21,7 +21,10 @@ function start()
         once: true
     };
     document.querySelectorAll(".blobdl a").forEach(a => {
-        a.addEventListener("click", fileOnClick, clickOptions);
+        if (a.href.startsWith("https://raw.githubusercontent.com/"))
+        {
+            a.addEventListener("click", fileOnClick, clickOptions);
+        }
     });
 }
 
