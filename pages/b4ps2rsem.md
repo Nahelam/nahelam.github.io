@@ -43,7 +43,7 @@ permalink: /b4ps2rsem/
 
 ## Mod Description
 
-This mod replaces the `MULTIPLAYER` option with a brand new `CREATE GAME` (single event) option.
+This mod brings back "Single Event" functionalities (one player) which are not present in the vanilla game. It replaces the `MULTIPLAYER` menu with a brand new `CREATE GAME` menu.
 
 It lets you choose between the following one player game modes:
 - Race
@@ -218,10 +218,8 @@ If you're already using a different Mastercode I recommend using the one listed 
 
 ### Source Code
 
-For curious/advanced users only, don't expect maintainability nor support.
-
-The code in `main.c` was only used for the PS2 version.
-
+For curious/advanced users only, don't expect maintainability nor support.\
+The code in `main.c` was only used for the PS2 version.\
 Compiled using Metrowerks CodeWarrior for PlayStation 2 (v3.04).
 
-ZIP: <a href="https://github.com/user-attachments/files/22620233/b4sem.zip">⬇️</a>
+*ZIP:* <a class="blobdl" href="https://github.com/user-attachments/files/22620233/b4sem.zip">⬇️</a>
