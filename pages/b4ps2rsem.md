@@ -6,7 +6,42 @@ permalink: /b4ps2rsem/
 
 # Single Event Mod
 
-![b4sem](https://github.com/user-attachments/assets/498f859a-16b7-47e8-8c7f-0264e35d18cd)
+![Burnout Revenge - Single Event Mod](https://github.com/user-attachments/assets/498f859a-16b7-47e8-8c7f-0264e35d18cd)
+
+## Table of Contents
+
+<ul class="toc">
+  <li><a href="#mod-description">Mod Description</a></li>
+  <li>
+    <a href="#new-options">New Options</a>
+    <ul>
+      <li><a href="#race">Race</a></li>
+      <li><a href="#road-rage">Road Rage</a></li>
+      <li><a href="#traffic-attack">Traffic Attack</a></li>
+      <li><a href="#burning-lap">Burning Lap</a></li>
+      <li><a href="#eliminator">Eliminator</a></li>
+    </ul>
+  </li>
+  <li>
+    <a href="#new-features">New Features</a>
+    <ul>
+      <li><a href="#profile-save">Profile Save</a></li>
+      <li><a href="#time-attack">Time Attack</a></li>
+      <li><a href="#finish-session">Finish Session</a></li>
+      <li><a href="#opponent-limit">Opponent Limit</a></li>
+      <li><a href="#lap-limit">Lap Limit</a></li>
+      <li><a href="#insane-traffic-checking">Insane Traffic Checking</a></li>
+    </ul>
+  </li>
+  <li><a href="#downloads">Downloads</a>
+    <ul>
+      <li><a href="#ps2-usage">PS2 Usage</a></li>
+      <li><a href="#source-code">Source Code</a></li>
+    </ul>
+  </li>
+</ul>
+
+## Mod Description
 
 This mod replaces the `MULTIPLAYER` option with a brand new `CREATE GAME` (single event) option.
 
@@ -84,7 +119,7 @@ Only a few are still hardcoded in english.
 
 After each event you will have the choice to save your profile data or not.
 
-### Burning Lap -> Time Attack
+### Time Attack
 
 Burning Lap mode behavior has been changed to Time Attack:
 - No lap limit
@@ -115,7 +150,7 @@ The default lap HUD component couldn't display more than 1 digit.
 
 ### Insane Traffic Checking
 
-My favorite one, when the *Traffic Checking* option is set to *Insane* you will be able to check all the traffic.
+My favorite one, when the `TRAFFIC CHECKING` option is set to `INSANE` you will be able to check all the traffic.
 
 You can check the same traffic vehicle until it vanishes.
 
@@ -134,39 +169,39 @@ Opponents are also given that power but they can't take you or other drivers dow
   </tr>
   <tr>
     <td>SLAJ-25066</td>
-    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Single%20Event%20Mod/SLAJ-25066_039182C6_single_event.pnach">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Single%20Event%20Mod/PCSX2/SLAJ-25066_039182C6_single_event.pnach">⬇️</a></td>
     <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%20Revenge/Single%20Event%20Mod/PS2/SLAJ-25066_single_event.xdelta">⬇️</a></td>
   </tr>
   <tr>
     <td>SLES-53506</td>
-    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Single%20Event%20Mod/SLES-53506_2CAC3DBC_single_event.pnach">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Single%20Event%20Mod/PCSX2/SLES-53506_2CAC3DBC_single_event.pnach">⬇️</a></td>
     <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%20Revenge/Single%20Event%20Mod/PS2/SLES-53506_single_event.xdelta">⬇️</a></td>
   </tr>
   <tr>
     <td>SLES-53507</td>
-    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Single%20Event%20Mod/SLES-53507_7E83CC5B_single_event.pnach">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Single%20Event%20Mod/PCSX2/SLES-53507_7E83CC5B_single_event.pnach">⬇️</a></td>
     <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%20Revenge/Single%20Event%20Mod/PS2/SLES-53507_single_event.xdelta">⬇️</a></td>
   </tr>
   <tr>
     <td>SLKA-25304</td>
-    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Single%20Event%20Mod/SLKA-25304_EEA60511_single_event.pnach">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Single%20Event%20Mod/PCSX2/SLKA-25304_EEA60511_single_event.pnach">⬇️</a></td>
     <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%20Revenge/Single%20Event%20Mod/PS2/SLKA-25304_single_event.xdelta">⬇️</a></td>
   </tr>
   <tr>
     <td>SLPM-66108</td>
-    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Single%20Event%20Mod/SLPM-66108_878E7A1D_single_event.pnach">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Single%20Event%20Mod/PCSX2/SLPM-66108_878E7A1D_single_event.pnach">⬇️</a></td>
     <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%20Revenge/Single%20Event%20Mod/PS2/SLPM-66108_single_event.xdelta">⬇️</a></td>
   </tr>
   <tr>
     <td>SLUS-21242</td>
-    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Single%20Event%20Mod/SLUS-21242_D224D348_single_event.pnach">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Single%20Event%20Mod/PCSX2/SLUS-21242_D224D348_single_event.pnach">⬇️</a></td>
     <td><a href="https://github.com/Nahelam/PS2-Game-Mods/raw/refs/heads/main/Burnout%20Revenge/Single%20Event%20Mod/PS2/SLUS-21242_single_event.xdelta">⬇️</a></td>
   </tr>
 </table>
 
 ### PS2 Usage
 
-This mod is way too heavy to be ran using known cheat engines on PS2 (as far as I know). Your game disc image has to be patched with one of the provided [xdelta](https://en.wikipedia.org/wiki/Xdelta){:target="_blank"} files using a patching tool such as [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases/latest){:target="_blank"}).
+This mod is way too heavy to be ran using known cheat engines on PS2 (as far as I know). Your game disc image has to be patched with one of the provided [xdelta](https://en.wikipedia.org/wiki/Xdelta){:target="_blank"} files using a patching tool such as [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases/latest){:target="_blank"}.
 
 The mod is disabled by default, to enable it use the `Single Event Mod Enabler` code in your favourite cheat engine and then load the patched game.
 
@@ -180,3 +215,13 @@ If you're already using a different Mastercode I recommend using the one listed 
 | SLPM-66108 | `903E46E8 0C0F9162` | `20220070 0C042660` |
 | SLKA-25304 | `90449E48 0C11273A` | `20255FA8 0C042744` |
 | SLAJ-25066 | `90449D48 0C1126FA` | `20255F60 0C042746` |
+
+### Source Code
+
+For curious/advanced users only, don't expect maintainability nor support.
+
+The code in `main.c` was only used for the PS2 version.
+
+Compiled using Metrowerks CodeWarrior for PlayStation 2 (v3.04).
+
+ZIP: <a href="https://github.com/user-attachments/files/22620233/b4sem.zip">⬇️</a>
