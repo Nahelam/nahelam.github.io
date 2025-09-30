@@ -18,10 +18,12 @@ It lets you choose between the following one player game modes:
 - Burning Lap
 - Eliminator
 
-Modifying the menus and preserving a "vanilla" look has been tough but I'm quite proud of the end result.  
+Modifying the menus and preserving a "vanilla" look has been tough but I'm quite proud of the end result.
+
 A lot of function hooks were implemented to make the game handle everything correctly (menus, new options, etc.).
 
-I wanted to make this patch available for all regions of the game thus I used as much localized strings as possible.  
+I wanted to make this patch available for all regions of the game thus I used as much localized strings as possible.
+
 Only a few are still hardcoded in english.
 
 
@@ -38,6 +40,7 @@ Only a few are still hardcoded in english.
 - <u>Oncoming</u>: Enable or disable oncoming boost reward *(Yes/No, always Yes when traffic is enabled)*
 - <u>Crashbreaker</u>: Enable or disable the Crashbreaker *(Yes/No)*
 
+
 ### Road Rage
 
 - <u>Time Limit</u>: Choose or disable time limit *(Off/1-16 minutes)*
@@ -50,16 +53,19 @@ Only a few are still hardcoded in english.
 - <u>Oncoming</u>: Enable or disable oncoming boost reward *(Yes/No, always Yes when traffic is enabled)*
 - <u>Crashbreaker</u>: Enable or disable the Crashbreaker *(Yes/No)*
 
+
 ### Traffic Attack
 
 - <u>Traffic Checking</u>: Enable or disable traffic checking *(Default/Insane)*
 - <u>Time Limit</u>: Enable or disable time limit *(Yes/No)*
+
 
 ### Burning Lap
 
 - <u>Traffic</u>: Enable or disable traffic *(Yes/No)*
 - <u>Traffic Checking</u>: Enable or disable traffic checking *(Yes/No/Insane, only affects the player when disabled)*
 - <u>Oncoming</u>: Enable or disable oncoming boost reward *(Yes/No, always Yes when traffic is enabled)*
+
 
 ### Eliminator
 
@@ -70,6 +76,7 @@ Only a few are still hardcoded in english.
 - <u>Traffic Checking</u>: Enable or disable traffic checking *(Yes/No/Insane, only affects the player when disabled)*
 - <u>Oncoming</u>: Enable or disable oncoming boost reward *(Yes/No, always Yes when traffic is enabled)*
 - <u>Crashbreaker</u>: Enable or disable the Crashbreaker *(Yes/No)*
+
 
 ## New Features
 
@@ -92,21 +99,28 @@ You can end the current event from the pause menu in
 
 ### Opponent Limit
 
-In Race and Eliminator modes you can choose up to 99 opponents.  
-The "active" opponents limit is still 5, they will be adjusted according to your position.  
+In Race and Eliminator modes you can choose up to 99 opponents.
+
+The "active" opponents limit is still 5, they will be adjusted according to your position.
+
 The "adjusting" mechanic was only working properly in Race mode, support for Eliminator has been added.
 
 ### Lap Limit
 
-In Race mode you can choose up to 99 laps.  
-The "Hit Count" HUD component from Crash mode has been used to display 2 digits laps properly.  
+In Race mode you can choose up to 99 laps.
+
+The "Hit Count" HUD component from Crash mode has been used to display 2 digits laps properly.
+
 The default lap HUD component couldn't display more than 1 digit.
 
 ### Insane Traffic Checking
 
-My favorite one, when the *Traffic Checking* option is set to *Insane* you will be able to check all the traffic.  
-You can check the same traffic vehicle until it vanishes.  
-Each time you touch a traffic car with enough speed it will count as a check.  
+My favorite one, when the *Traffic Checking* option is set to *Insane* you will be able to check all the traffic.
+
+You can check the same traffic vehicle until it vanishes.
+
+Each time you touch a traffic car with enough speed it will count as a check.
+
 Opponents are also given that power but they can't take you or other drivers down with traffic.
 
 
@@ -152,14 +166,13 @@ Opponents are also given that power but they can't take you or other drivers dow
 
 ### PS2 Usage
 
-- Identify your game region
-- Use the provided [xdelta](https://en.wikipedia.org/wiki/Xdelta){:target="_blank"} file to patch your game iso (there are various patching tools available, such as [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases/latest)){:target="_blank"}
-- Enable the "Mastercode" and the "Single Event Mod" code
-- Profit
+This mod is way too heavy to be ran using known cheat engines on PS2 (as far as I know). Your game disc image has to be patched with one of the provided [xdelta](https://en.wikipedia.org/wiki/Xdelta){:target="_blank"} files using a patching tool such as [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases/latest){:target="_blank"}).
 
-If you're already using a different Mastercode I recommend using the one listed below, replacing it won't break your other cheats.
+The mod is disabled by default, to enable it use the `Single Event Mod Enabler` code in your favourite cheat engine and then load the patched game.
 
-| Region | Mastercode | Single Event Mod code
+If you're already using a different Mastercode I recommend using the one listed below.
+
+| Region | Mastercode | Single Event Mod Enabler
 | --- | --- | --- |
 | SLUS-21242 | `90449D08 0C1126EA` | `20255F50 0C042746` |
 | SLES-53506 | `90449E08 0C11272A` | `20255F68 0C04274C` |
