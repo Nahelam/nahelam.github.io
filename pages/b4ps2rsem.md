@@ -222,4 +222,4 @@ For curious/advanced users only, don't expect maintainability nor support.\
 The code in `main.c` was only used for the PS2 version.\
 Compiled using Metrowerks CodeWarrior for PlayStation 2 (v3.04).
 
-*ZIP:* <a class="blobdl" href="https://github.com/user-attachments/files/22620233/b4sem.zip">⬇️</a>
+**ZIP:** <a class="dl" href="https://github.com/user-attachments/files/22620233/b4sem.zip">⬇️</a>
