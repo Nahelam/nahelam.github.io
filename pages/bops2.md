@@ -153,7 +153,7 @@ For more information, you can try to ask on the [Burnout Online Discord server](
   </tr>
   <tr>
     <td>Buddies<b>/</b>Disable Module</td>
-    <td>Disable the Buddies module (which is currently causing pre-game timeouts)</td>
+    <td>Disable the Buddies module</td>
   </tr>
   <tr class="rcmd">
     <td>Lobby<b>/</b>Reduce Server Connection Timeout</td>
