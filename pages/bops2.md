@@ -124,6 +124,12 @@ I decided to give it a shot and noticed that the bug was indeed present in `DRTY
 
 ### Burnout Revenge
 
+Online mode for Burnout Revenge is currently unstable, you need to activate some temporary fixes to avoid frequent game crashes.
+
+You also need to create an account on Burnout 3: Takedown in order to properly log in on Revenge, EA Nation is not supported yet.
+
+For more information, you can try to ask on the [Burnout Online Discord server](https://discord.gg/WPYdr5Cw8y).
+
 <table>
   <tr>
     <th>Patch Title</th>
