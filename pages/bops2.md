@@ -81,35 +81,35 @@ I decided to give it a shot and noticed that the bug was indeed present in `DRTY
     <th>Patch Description</th>
   </tr>
   <tr>
-    <td>Online<b>/</b>Disable UPnP</td>
+    <td>Disable UPnP</td>
     <td>Prevent the game from using UPnP</td>
   </tr>
   <tr class="rcmd">
-    <td>Online<b>/</b>Ensure SSL</td>
-    <td>Prevent the game from falling back to insecure mode (can sometimes happen and cause errors)</td>
+    <td>Ensure SSL</td>
+    <td>Prevent the game from falling back to insecure (no SSL) mode (can sometimes happen and cause errors)</td>
   </tr>
   <tr class="mdtr">
-    <td>Online<b>/</b>Server URL (bosrv.org)</td>
+    <td>Server URL (bosrv.org)</td>
     <td>Replace the original server URL in order to connect to /dev/ghostline's server emulator</td>
   </tr>
   <tr class="mdtr">
-    <td>Online<b>/</b>Bypass DNAS</td>
+    <td>Bypass DNAS</td>
     <td>Fully bypass the DNAS sequence</td>
   </tr>
   <tr class="rcmd">
-    <td>Online<b>/</b>Buddies<b>/</b>Disable Module</td>
+    <td>Buddies<b>/</b>Disable Module</td>
     <td>Disable the Buddies module (which is currently causing pre-game timeouts)</td>
   </tr>
   <tr>
-    <td>Online<b>/</b>Lobby<b>/</b>Allow Single Player</td>
-    <td>Set the minimum number of players required to start a match to 1</td>
+    <td>Lobby<b>/</b>Allow Single Player</td>
+    <td>Set the minimum number of players required to start a game to 1</td>
   </tr> 
   <tr>
-    <td>Online<b>/</b>Lobby<b>/</b>Heavyweights Globally Available</td>
+    <td>Lobby<b>/</b>Heavyweights Globally Available</td>
     <td>Allow heavyweights to be selectable in the garage regardless of the chosen game mode</td>
   </tr>
   <tr>
-    <td>Online<b>/</b>In-Game<b>/</b>Hide Lost Connection Message</td>
+    <td>In-Game<b>/</b>Hide Lost Connection Message</td>
     <td>Hide the "Lost connection to other players" error message (useful while playing alone)</td>
   </tr>
 </table>
@@ -123,8 +123,77 @@ I decided to give it a shot and noticed that the bug was indeed present in `DRTY
 </div>
 
 ### Burnout Revenge
-Coming soon.
 
+<table>
+  <tr>
+    <th>Patch Title</th>
+    <th>Patch Description</th>
+  </tr>
+  <tr>
+    <td>Disable UPnP</td>
+    <td>Prevent the game from using UPnP</td>
+  </tr>
+  <tr class="rcmd">
+    <td>Ensure SSL</td>
+    <td>Prevent the game from falling back to insecure (no SSL) mode (can sometimes happen and cause errors)</td>
+  </tr>
+  <tr class="mdtr">
+    <td>Server URL (bosrv.org)</td>
+    <td>Replace the original server URL in order to connect to /dev/ghostline's server emulator</td>
+  </tr>
+  <tr class="mdtr">
+    <td>Bypass DNAS</td>
+    <td>Fully bypass the DNAS sequence</td>
+  </tr>
+  <tr>
+    <td>Buddies<b>/</b>Disable Module</td>
+    <td>Disable the Buddies module (which is currently causing pre-game timeouts)</td>
+  </tr>
+  <tr class="rcmd">
+    <td>Lobby<b>/</b>Reduce Server Connection Timeout</td>
+    <td>Reduce the timeout delay of the connecting screen to 10 seconds before throwing an error when the server is unresponsive (default is 2 minutes)</td>
+  </tr>
+  <tr>
+    <td>Lobby<b>/</b>Allow Single Player</td>
+    <td>Set the minimum number of players required to start a game to 1</td>
+  </tr>
+  <tr>
+    <td>Lobby<b>/</b>Show Logout Popup (L3+R3)</td>
+    <td>Press L3+R3 for an attempt to show the logout popup (might help in case of softlocks, etc.)</td>
+  </tr>
+  <tr>
+    <td>Lobby<b>/</b>Traffic Attack (Hold L1+R1)</td>
+    <td>Hold L1+R1 in game options and press continue to set the game mode to Traffic Attack</td>
+  </tr>
+  <tr>
+    <td>Lobby<b>/</b>Revenge Racer By Default</td>
+    <td>Directly focus on the Revenge Racer (when available) after entering the car select menu</td>
+  </tr>
+  <tr>
+    <td>In-Game<b>/</b>Disable Drag Coeff</td>
+    <td>Disable the adaptative drag coefficient based on distance away from other players</td>
+  </tr>
+  <tr>
+    <td>In-Game<b>/</b>Enable Crashbreaker</td>
+    <td>Enable Crashbreaker in online games</td>
+  </tr>
+  <tr class="mdtr">
+    <td>Temporary Fixes<b>/</b>Account Verification</td>
+    <td>Prevent the "verifying account" game crash</td>
+  </tr>
+  <tr class="mdtr">
+    <td>Temporary Fixes<b>/</b>Rankings</td>
+    <td>Disable some rankings-related logic to prevent game crashes</td>
+  </tr>
+</table>
+<div class="lgnd">
+  <div>
+    <small>
+    <span class="mdtr">■</span> MANDATORY<br />
+    <span class="rcmd">■</span> RECOMMENDED
+    </small>
+  </div>
+</div>
 
 ## Downloads
 
@@ -171,27 +240,27 @@ Coming soon.
   </tr>
   <tr>
     <td>SLAJ-25066</td>
-    <td>Coming soon</td>
-    <td>Coming soon</td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Online/PCSX2/SLAJ-25066_039182C6_online.pnach">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Online/PS2/SLAJ-25066_online.cht">⬇️</a></td>
   </tr>
   <tr>
     <td>SLES-53506</td>
-    <td>Coming soon</td>
-    <td>Coming soon</td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Online/PCSX2/SLES-53506_2CAC3DBC_online.pnach">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Online/PS2/SLES-53506_online.cht">⬇️</a></td>
   </tr>
   <tr>
     <td>SLES-53507</td>
-    <td>Coming soon</td>
-    <td>Coming soon</td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Online/PCSX2/SLES-53507_7E83CC5B_online.pnach">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Online/PS2/SLES-53507_online.cht">⬇️</a></td>
   </tr>
   <tr>
     <td>SLKA-25304</td>
-    <td>Coming soon</td>
-    <td>Coming soon</td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Online/PCSX2/SLKA-25304_EEA60511_online.pnach">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Online/PS2/SLKA-25304_online.cht">⬇️</a></td>
   </tr>
   <tr>
     <td>SLUS-21242</td>
-    <td>Coming soon</td>
-    <td>Coming soon</td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Online/PCSX2/SLUS-21242_D224D348_online.pnach">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%20Revenge/Online/PS2/SLUS-21242_online.cht">⬇️</a></td>
   </tr>
 </table>
