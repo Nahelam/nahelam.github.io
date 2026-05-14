@@ -1,5 +1,5 @@
 ---
-title: Burnout 3: Takedown - B3Mod
+title: Burnout 3 Takedown - B3Mod
 layout: default
 permalink: /b3ps2mod/
 ---
