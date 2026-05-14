@@ -7,7 +7,19 @@ permalink: /b3ps2mod/
 # B3Mod
 A Burnout 3: Takedown mod powered by a hand-rewritten menu system reverse-engineered from a Burnout Dominator prototype debug menu.
 
-![Burnout 3: Takedown - B3Mod](https://github.com/user-attachments/assets/7dc950d9-086c-4844-ab45-6a5659b786f2)
+<a href="https://github.com/user-attachments/assets/7dc950d9-086c-4844-ab45-6a5659b786f2" target="_blank">
+  <img src="https://github.com/user-attachments/assets/7dc950d9-086c-4844-ab45-6a5659b786f2" alt="Burnout 3: Takedown - B3Mod">
+</a>
+
+## Table of Contents
+
+<ul class="toc">
+  <li><a href="#still-a-wip">Still a WIP</a></li>
+  <li><a href="#requirements">Requirements</a></li>
+  <li><a href="#mod-menu">Mod Menu</a></li>
+  <li><a href="#replays">Replays</a></li>
+  <li><a href="#downloads">Downloads</a></li>
+</ul>
 
 ## Still a WIP
 The initial goal of this mod was to regroup all the various patches I made for Burnout 3.  
@@ -33,8 +45,7 @@ Recently I've been focusing on making the replay system work in all offline game
  
 You can now unleash the cinematic potential of the game.
 
-[![Burnout 3: Takedown - Retail Replay Mod Showcase](https://github.com/user-attachments/assets/581b998d-54eb-4a32-b8d2-cf1422633007)](https://youtu.be/Aw3aIkPtp88 "Burnout 3: Takedown - Retail Replay Mod Showcase")
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Aw3aIkPtp88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Downloads
 
