@@ -57,12 +57,12 @@ You can now unleash the cinematic potential of the game.
   </tr>
   <tr>
     <td>SLES-52585</td>
-    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Online/PCSX2/SLES-52585_CE49B0DE_online.pnach">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/B3Mod/refs/heads/main/SLES-52585_CE49B0DE_b3mod.pnach">⬇️</a></td>
     <td>❌</td>
   </tr>
   <tr>
     <td>SLUS-21050</td>
-    <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/Online/PCSX2/SLUS-21050_BEBF8793_online.pnach">⬇️</a></td>
+    <td><a href="https://raw.githubusercontent.com/Nahelam/B3Mod/refs/heads/main/SLUS-21050_BEBF8793_b3mod.pnach">⬇️</a></td>
     <td>❌</td>
   </tr>
 </table>
