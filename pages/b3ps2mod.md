@@ -68,11 +68,10 @@ You can now unleash the cinematic potential of the game.
   </tr>
 </table>
 
-
 ## Changelog
 
-### Commit [d419688](https://github.com/Nahelam/B3Mod/tree/d4196885c8a5bc8bf040e2e4fa85a27bfa9f45c1)
+**Commit [d419688](https://github.com/Nahelam/B3Mod/tree/d4196885c8a5bc8bf040e2e4fa85a27bfa9f45c1)**
 - Replays now support standing starts
 
-### Commit [217331b](https://github.com/Nahelam/B3Mod/tree/217331b259d8b320d821a9698a80205d7abbd739)
+**Commit [217331b](https://github.com/Nahelam/B3Mod/tree/217331b259d8b320d821a9698a80205d7abbd739)**
 - Initial public release
