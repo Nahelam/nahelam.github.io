@@ -19,6 +19,7 @@ A Burnout 3: Takedown mod powered by a hand-rewritten menu system reverse-engine
   <li><a href="#mod-menu">Mod Menu</a></li>
   <li><a href="#replays">Replays</a></li>
   <li><a href="#downloads">Downloads</a></li>
+  <li><a href="#changelog">Changelog</a></li>
 </ul>
 
 ## Still a WIP
@@ -66,3 +67,12 @@ You can now unleash the cinematic potential of the game.
     <td>❌</td>
   </tr>
 </table>
+
+
+## Changelog
+
+### Commit [d419688](https://github.com/Nahelam/B3Mod/tree/d4196885c8a5bc8bf040e2e4fa85a27bfa9f45c1)
+- Replays now support standing starts
+
+### Commit [217331b](https://github.com/Nahelam/B3Mod/tree/217331b259d8b320d821a9698a80205d7abbd739)
+- Initial public release
