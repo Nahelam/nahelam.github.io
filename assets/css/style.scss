@@ -13,7 +13,8 @@ a:is(:hover, :focus) {
   font-weight: revert;
 }
 
-a.dl:is(:hover, :focus), .blobdl a:is(:hover, :focus) {
+a.dl:is(:hover, :focus),
+.blobdl a:is(:hover, :focus) {
   text-decoration: none;
 }
 
@@ -47,13 +48,14 @@ ul {
   margin: revert;
 }
 
-ul.toc, .toc ul {
+ul.toc,
+.toc ul {
   padding-left: 1rem;
-};
+}
 
 .toc li {
   list-style-type: none;
-};
+}
 
 h2 {
   margin-top: 3rem;
@@ -63,6 +65,7 @@ table {
   margin-bottom: 3rem;
 }
 
-h2#changelog ~ :is(p, ul) {
+h2#changelog ~ p,
+h2#changelog ~ ul {
   margin: 0;
 }
