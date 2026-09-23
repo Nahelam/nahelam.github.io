@@ -64,3 +64,36 @@ h2 {
 table {
   margin-bottom: 3rem;
 }
+
+.alert-red {
+  box-sizing: border-box;
+  padding: 0.01em 16px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  color: #fff;
+  background-color: #dd0000;
+}
+
+.alert-red:before,
+.alert-red:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.alert-red h1,
+.alert-red h2,
+.alert-red h3,
+.alert-red h4,
+.alert-red h5,
+.alert-red h6 {
+  font-family: "Segoe UI", Arial, sans-serif;
+  font-weight: 400;
+  margin: 10px 0;
+}
+
+.alert-red p {
+  font-family: Verdana, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
