@@ -9,7 +9,7 @@ permalink: /bops2/
 <div class="alert-red">
   <h3>IMPORTANT</h3>
   <p>Patches specifically made for No23's server emulator (server URL, disable buddies, temporary fixes) are now obsolete.
-  <p>The server (bosrv) is not active anymore and the torch has been passed to [EA Nation Server](https://github.com/a-blondel/ea-nation-server).</p>
+  <p>The server (bosrv) is not active anymore and the torch has been passed to <a href="https://github.com/a-blondel/ea-nation-server">EA Nation Server</a>.</p>
   <p>You can find the new connection guide in a dedicated Discord server, invite link is in the GitHub repository linked above.</p>
 </div>
 
