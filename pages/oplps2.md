@@ -8,6 +8,8 @@ permalink: /oplps2/
 
 Experimental OPL build that should make PS1 controllers work in PS2 games requiring a DualShock 2.
 
+To try it, set the pad emulator mode to "PS1 controller (port)" and turn on the "Emulation" option. Vibration should work too.
+
 ## Downloads
 
 <table class="blobdl">
