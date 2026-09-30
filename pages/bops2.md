@@ -1,5 +1,5 @@
 ---
-title: Burnout Online - PlayStation 2
+title: "Burnout Online - PlayStation 2"
 layout: default
 permalink: /bops2/
 ---

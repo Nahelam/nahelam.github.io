@@ -1,5 +1,5 @@
 ---
-title: Burnout Revenge
+title: "Burnout Revenge"
 layout: default
 permalink: /b4ps2r/
 ---

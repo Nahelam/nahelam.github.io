@@ -1,5 +1,5 @@
 ---
-title: Burnout 3 Takedown - B3Mod
+title: "Burnout 3 Takedown - B3Mod"
 layout: default
 permalink: /b3ps2mod/
 ---
@@ -68,7 +68,7 @@ You can now unleash the cinematic potential of the game.
   </tr>
 </table>
 
-## Changelog
+## Changelog (in descending order)
 
 **Commit [d419688](https://github.com/Nahelam/B3Mod/tree/d4196885c8a5bc8bf040e2e4fa85a27bfa9f45c1)**
 - Replays now support standing starts

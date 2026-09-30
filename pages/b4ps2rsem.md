@@ -1,5 +1,5 @@
 ---
-title: Burnout Revenge - Single Event Mod
+title: "Burnout Revenge - Single Event Mod"
 layout: default
 permalink: /b4ps2rsem/
 ---
