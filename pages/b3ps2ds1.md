@@ -18,7 +18,7 @@ Thanks to the author(s) of [this article](https://playstationjoysticks.blogspot.
   <tr>
     <th>SLES-52584</th>
     <th>SLES-52585</th>
-    <th>SLES-21050</th>
+    <th>SLUS-21050</th>
   </tr>
   <tr>
     <td><a href="https://raw.githubusercontent.com/Nahelam/PS2-Game-Mods/refs/heads/main/Burnout%203%20Takedown/DualShock%202/PADFIX/SLES-52584_PADFIX.xdelta">⬇️</a></td>
