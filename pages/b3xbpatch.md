@@ -16,7 +16,7 @@ To apply these patches you need an FTP access to your Xbox HDD, [Flips](<https:/
 
 Grab the game executable (`default.xbe`) which is located in\
 `E:\TDATA\4541005b\$u\` then apply the patch using Flips and put the patched xbe on your Xbox HDD.\
-The file name must be the same as the original. Rename the original file instead of erasing to keep a backup.
+The file name must be the same as the original. Rename the original file instead of erasing it to keep a backup.
 
 ## Supported Regions
 
