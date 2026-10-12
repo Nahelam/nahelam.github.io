@@ -26,7 +26,7 @@ The file name must be the same as the original. You can rename the original file
 
 ## Features
 
-- Set the minimum number of players required to start an online game to 1 (useful to train against online traffic)
+- Set the minimum number of players required to start an online game to 1 (useful for practicing against online traffic)
 
 - Holding LT+RT+X before selecting the extras menu will open the development menu instead (which has a very useful `Unlock All` option)
 
