@@ -6,7 +6,7 @@ permalink: /b3xbpatch/
 
 # Xbox Patch
 
-This patch currently brings a few QoL changes to the game.
+This patch currently brings a few QoL features to the game.
 
 A new section was added in the game executable (4096 bytes) using [XboxImageXploder](https://github.com/grimdoomer/XboxImageXploder) to make room for some asm logic.
 
@@ -14,7 +14,7 @@ A new section was added in the game executable (4096 bytes) using [XboxImageXplo
 
 To apply these patches you need an FTP access to your Xbox HDD, [Flips](<https://git.disroot.org/Sir_Walrus/Flips/releases>) and the Title Update of the game installed (if you're using Insignia it should be already installed).
 
-Grab the game executable (`default.xbe`) located in `E:\TDATA\4541005b\$u`, apply the patch using Flips then put the patched xbe on your HDD, the file name should be the same as the original. Rename the original game executable instead of erasing it if you want to keep a backup.
+Grab the game executable (`default.xbe`) which can be found in `E:\TDATA\4541005b\$u\`, apply the patch using Flips then put the patched xbe on your HDD, the file name should be the same as the original. Rename the original game executable instead of erasing it if you want to keep a backup.
 
 ## Supported Regions
 
@@ -22,9 +22,9 @@ Grab the game executable (`default.xbe`) located in `E:\TDATA\4541005b\$u`, appl
 - PAL102: Europe (NL,EN,ES,SV)
 - PAL103: Europe (FR,DE,IT)
 
-## Changes
+## Features
 
-- Set the minimum number of players required to start an online game to 1
+- Set the minimum number of players required to start an online game to 1 (useful to train against online traffic)
 - Holding LT+RT+X before selecting the extras menu will open the development menu instead (which has a very useful `Unlock All` option)
 
 ## Download
